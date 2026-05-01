@@ -1,4 +1,6 @@
 # BasicRailsEngine
+
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/n-at-han-k/basic_rails_engine)
 Short description and motivation.
 
 ## Usage
